@@ -1,0 +1,9 @@
+ {
+  "development": {
+    "username": "binar",
+    "password": "binar",
+    "database": "antar_makan",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
